@@ -76,6 +76,11 @@ Each <Child> displays the number it receives through its data prop.
 
 ## Lab Deliverables
 
+0. Install react
+
+- Open your terminal, navigate to the root of the project directory, and type `npm i`. This will install and configure all the necessary packages.
+- Open a second terminal and `run npm run dev` to start up a development server that will run the react application
+
 1. Create Container component
 
 - Create a new file in the components folder called RestaurantsContainer.js.
