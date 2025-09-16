@@ -159,7 +159,7 @@ export default Restaurant;
   <summary>Click Here to view solution</summary>
 
 ```
-import { restaurants } from "./data/data.js";
+import { restaurants } from "../data/data.js";
 
 import Restaurant from "./Restaurant";
 
@@ -186,7 +186,7 @@ export default RestaurantsContainer;
   <summary>Click Here to view solution</summary>
 
 ```
-import { restaurants } from "./data/data.js";
+import { restaurants } from "../data/data.js";
 
 import Restaurant from "./Restaurant";
 
